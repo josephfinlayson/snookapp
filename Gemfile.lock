@@ -120,7 +120,6 @@ GEM
     mime-types (1.17.2)
     multi_json (1.1.0)
     nokogiri (1.5.0)
-    pg (0.13.2)
     polyglot (0.3.3)
     rack (1.4.1)
     rack-cache (1.2)
@@ -221,7 +220,6 @@ DEPENDENCIES
   guard-rspec (= 0.6.0)
   guard-spork (= 0.5.2)
   jquery-rails (= 2.0.1)
-  pg (= 0.13.2)
   rack-livereload
   rails (= 3.2.2)
   rb-fsevent (= 0.9.0)
